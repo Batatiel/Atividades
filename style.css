@@ -1,0 +1,17 @@
+div{font-style: italic;
+    width: 50%;
+    margin: 0px auto;
+    padding: 5px 10px 5px 10px;
+    background-color: #fff1e6;
+    }
+body{
+    margin: 0px;
+}
+h3{
+    color: #0077b6;
+    padding: 5px;
+}
+data{
+    color: #0077b6;
+    padding: 15px;
+}
